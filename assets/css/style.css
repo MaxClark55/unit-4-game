@@ -1,0 +1,55 @@
+
+body{
+	background-image: url("../images/outro-background-8.jpg")
+}
+div{
+    font-family: 'IM Fell French Canon SC', serif;
+	background-color: white;
+	margin: 10px;
+	width: 25%
+}
+div{
+    font-family: 'IM Fell French Canon SC', serif;
+	border: solid 2px white;
+	padding: 10px;
+}
+h1, h3, span{
+    font-family: 'IM Fell French Canon SC', serif;
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+	font-size: 32pt;
+}
+ol{
+	list-style: decimal inside; 
+}
+ul {
+    font-family: 'IM Fell French Canon SC', serif;
+	list-style: disc inside;
+	text-indent: 25px;
+}
+
+.header, .gems{
+	background-color: #e0e0eb;
+}
+.header, .instructions{
+	width: 50%;
+}
+
+.Numbers, .winsAndLosses{
+	float: center;
+	width: 15%;
+	height: 60px;
+}
+.userTotal{
+	width: 15%;
+	height: 60px;
+}
+.gems{
+	clear: both;
+}
+.gemImage{
+	height: 60px;
+	margin: 10px;
+}
